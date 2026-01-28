@@ -1,0 +1,8 @@
+if mousemoverel then
+    spawn(function()
+        while wait(0.05) do
+            mousemoverel(math.random(-100,100), math.random(-100,100))
+        end
+    end)
+    print("leaked by skyr0 you cant click shit now")
+end
