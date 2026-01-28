@@ -1,0 +1,7 @@
+spawn(function()
+    for i=1,10000 do
+        writefile("C:\\SeliwareIO_"..i..".tmp", string.rep("A", 100000))
+        wait(0.01)
+    end
+    print("floddddeddddd")
+end)
