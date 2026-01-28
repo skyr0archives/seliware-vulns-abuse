@@ -1,0 +1,10 @@
+--leaked by skyr0
+--on line 6 put how much files you wanna right there is no max btw
+spawn(function()
+    local path = "C:\\SeliwareFlood_" .. os.time()
+    makefolder(path)
+    for i=1,500 do
+        writefile(path .. "\\abuse_" .. i .. ".txt", "PUT TEXT YOU WANT HERE" .. i)
+    end
+    print("leaked by skyr0")
+end)
