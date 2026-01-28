@@ -1,0 +1,7 @@
+.1 ransomeware note is good bewcause for retards they dont knwo about write file
+so you can just say check your workspace and you can see in their workspace it has
+a readme.txt and it can say sum weird to scare them 100%
+
+2. everything else is obv tbh 
+
+3. clipboard poison put a malicious powershell code and tell the user to click win + r ctrl + v and enter and get pwned
